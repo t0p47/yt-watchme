@@ -1,6 +1,5 @@
 .gradle
 .DS_Store
 YouTubeWatchMeforAndroid.iml
-.idea
 build
 local.properties
